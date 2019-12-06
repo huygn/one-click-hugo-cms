@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: huygn/one-click-hugo-cms
   open_authoring: true
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
